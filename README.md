@@ -1,4 +1,5 @@
 Predicting FWI - Weather Index
+
 Steps followed:
 1. Data preprocessing
 2. Data Cleaning
