@@ -1,4 +1,4 @@
-Predicting FWI - Weather Index
+Predicting FWI - Weather Index - This Project is for Sample Training purpose
 
 Steps followed:
 1. Data preprocessing
